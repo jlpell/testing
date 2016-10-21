@@ -1,0 +1,3 @@
+[submodule "minimal_cmake_example"]
+	path = minimal_cmake_example
+	url = https://github.com/krux02/minimal_cmake_example
